@@ -116,9 +116,11 @@ body {
 		&__link {
 			color: $link-color;
 			text-decoration: none;
+			font-weight: bold;
 			cursor: pointer;
 			&:hover {
 				color: $perfume-text;
+
 			}
 		}
 	}
@@ -157,7 +159,7 @@ body {
 			width: 70%;
 		}
 		&__text {
-			margin: 0.5em 2.5em 0;
+			margin: 0.5em 1em 0;
 			&-heading {
 				margin: 0.3em 0;
 			}
@@ -175,8 +177,6 @@ body {
 	.main-card {
 		display: flex;
 		flex-direction: row;
-		justify-content: center;
-		align-items: center;
 		&__bg {
 			height: 450px;
 			padding: 0 0.5em;
@@ -198,10 +198,18 @@ body {
 			}
 		}
 		&__text {
-		
+			margin: 1.5em;
 				&-heading {
-					margin: 0.5em 0;
-				}
+					margin-top: 0.5em;
+					font-family: 'Fraunces', sans-serif;
+					line-height: 1.1;
+					font-size: 2.2rem;
+				}				
+		}
+	}
+	.footer {
+		.attribution {
+			font-size: 0.8rem;
 		}
 	}
 }
