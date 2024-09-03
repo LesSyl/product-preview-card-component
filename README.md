@@ -25,9 +25,9 @@ Mobile
 
 ### Links
 
-- Repository URL:
+- Repository URL:[https://github.com/LesSyl/product-preview-card-component](https://github.com/LesSyl/product-preview-card-component)
 - Solution URL:
-- Live Site URL:
+- Live Site URL:[https://lessyl.github.io/product-preview-card-component/](https://lessyl.github.io/product-preview-card-component/)
 
 ## My process
 
