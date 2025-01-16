@@ -25,9 +25,9 @@ Mobile
 
 ### Links
 
-- Repository URL:[https://github.com/LesSyl/product-preview-card-component](https://github.com/LesSyl/product-preview-card-component)
-- Solution URL:[https://www.frontendmentor.io/solutions/challenge-product-preview-card-component-ij730zMwjB](https://www.frontendmentor.io/solutions/challenge-product-preview-card-component-ij730zMwjB)
-- Live Site URL:[https://lessyl.github.io/product-preview-card-component/](https://lessyl.github.io/product-preview-card-component/)
+- Repository URL: [GitHub](https://github.com/LesSyl/product-preview-card-component)
+- Solution URL: [Frontend Mentor](https://www.frontendmentor.io/solutions/frontend-mentor---article-preview-component-solution-kld7qOJZiF)
+- Live Site URL: [Live](https://lessyl.github.io/Frontend-Mentor---product-preview-card-component/)
 
 ## My process
 
